@@ -18,7 +18,7 @@ import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
 
-
+radek
 
     Button b1;
     final static private int CAPTURE_IMAGE = 1;
